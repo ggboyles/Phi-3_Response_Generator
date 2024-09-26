@@ -1,6 +1,4 @@
-# Title
-
-Phi-3 Response Generator
+# Phi-3 Response Generator
 
 ## Project Description
 
@@ -8,46 +6,50 @@ This project uses the Phi-3-mini model to generate responses from a user-inputte
 
 This project was developed for CS 325 (Software Engineering). 
 
+---
 
 ## Setup and Installation
 
-1. Clone this repository
+1. **Clone this repository**
+<br>
 
-
-
-2. Install Anaconda
+2. **Install Anaconda**
 
 Anaconda is required to manage the enviroment for this project.
 
 You can download Anaconda here if you do not have it installed.
+
 [Anaconda Download Page](https://www.anaconda.com/products/distribution#download-section)
+<br>
 
-
-3. Download and Install Ollama 
+3. **Download and Install Ollama**
 
 Ollama is required to run the Phi-3-mini model locally.
 
 You can download the Ollama app here if you do not have it installed.
+
 [Ollama Download Page](https://ollama.com/download)
+<br>
 
-4. Create and Activate the Conda Enviroment
+4. **Create and Activate the Conda Enviroment**
 
-Create the enviroment using the requirements.yaml file:
+Create the enviroment using the `requirements.yaml` file:
 
 ```conda env create -f requirements.yaml```
 
 Then, activate the enviroment:
 
 ```conda activate phi3_env```
+<br>
 
-
-5. Install Ollama in the Conda Enviorment
+5. **Install Ollama in the Conda Enviorment**
 
 Install Ollama within the enviroment:
 
 ```pip install ollama```
+<br>
 
-6. Pull Phi-3 Model
+6. **Pull Phi-3 Model**
 
 Locally download the Phi-3-mini model:
 
@@ -60,11 +62,11 @@ You can make sure it is installed with this:
 
 ## Instructions
 
-1. Edit Prompts
+1. **Edit Prompts**
 
-Modify the prompts within prompts.txt if desired. Be sure to keep them on seperate lines.
+Modify the prompts within `prompts.txt` if desired. Be sure to keep them on seperate lines.
 
-2. Run the Script
+2. **Run the Script**
 
 Run the script by using:
 
@@ -74,9 +76,9 @@ If this does not work, you can try using the full path to Python in the envirome
 
 ```/opt/anaconda3/envs/phi3_env/bin/python run_model.py```
 
-3. View Responses
+3. **View Responses**
 
 After completion, terminal will show
 
-``Responses saved to responses.txt``
+``"Responses saved to responses.txt"``
 
