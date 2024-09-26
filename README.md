@@ -10,7 +10,7 @@ This project was developed for CS 325 (Software Engineering).
 
 ## Setup and Installation
 
-1. **Clone this repository**
+1. **Clone this Repository or Download the ZIP file**
 <br>
 
 2. **Install Anaconda**
