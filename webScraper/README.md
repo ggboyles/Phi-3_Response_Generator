@@ -18,7 +18,7 @@ Anaconda is required to manage the environment for this project.
 
 You can download Anaconda here if you do not have it installed.
 
-[Anaconda Download Page](https://www.anaconda.com/products distribution#download-section)
+[Anaconda Download Page](https://www.anaconda.com/products/distribution#download-section)
 
 3. **Create and Activate the Conda Environment**
 
