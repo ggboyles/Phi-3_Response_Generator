@@ -1,0 +1,16 @@
+# This .txt file contains all the links and names for the product reviews that are being scraped.
+
+# Apple Watch Ultra 2
+https://www.bestbuy.com/site/reviews/apple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-black-ocean-band-black-2024/6572918?variant=A
+
+# Apple Watch Ultra
+https://www.bestbuy.com/site/reviews/apple-watch-ultra-gps-cellular-49mm-titanium-case-with-blue-gray-trail-loop-s-m-titanium-2022/6339707?variant=A
+
+# Apple Watch Series 10
+https://www.bestbuy.com/site/reviews/apple-watch-series-10-gps-46mm-aluminum-case-with-black-sport-band-m-l-jet-black-2024/6572689?variant=A
+
+# Apple Watch Series 9
+https://www.bestbuy.com/site/reviews/apple-watch-series-9-gps-45mm-aluminum-case-with-midnight-sport-band-small-medium-midnight-2023/6574338?variant=A
+
+# Apple Watch Series 8
+https://www.bestbuy.com/site/reviews/apple-geek-squad-certified-refurbished-watch-series-8-gps-45mm-aluminum-case-with-midnight-sport-band-s-m-midnight-2022/6561552?variant=A

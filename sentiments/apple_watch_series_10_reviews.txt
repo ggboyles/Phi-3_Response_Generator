@@ -1,0 +1,41 @@
+Review: Product Reviews for Apple Watch Series 10
+
+Review 1:
+Love the new Apple watch series 10, the screen is super clear and the band is very comfortable. Much better battery life.
+Sentiment: positive
+
+Review: Review 2:
+Series 10 has been very good so far. Increase size is definitely noticeable. Feel very smooth just like previous version. Only thing still Kissing is step counter which apple refuses to add directly.
+Sentiment: positive
+
+Review: Review 3:
+This is a great Apple Watch. It functions quickly, changes quickly and hold battery life longer then last years watch. Also, I like the jet black finish a lot.
+Sentiment: positive
+
+Review: Review 4:
+My thought on the watches has always been to wait as the upgrades are small inbetween interations. So far, I have been pleased with the 10 over the 7. 46mm isnt way bigger, but its big enough you notice it. Its faster and much lighter and the screen looks much better as well. The new dive feature is also something I think could prove useful. So far, I’d say its a solid upgrade!
+Sentiment: positive
+
+Review: Review 5:
+This watch is always improving. I can actually see web sites and track my Fedex packages. The screen stays blank until I lift it to see the time. I like that it can be configured in so many ways to my preference. The watch easily pairs with my iPhone to make and receive calls. Great new watch.
+Sentiment: positive
+
+Review: Review 6:
+I upgraded from a series 8 Apple watch and I'm very disappointed. The materials that make up the series 10 are cheaper quality and not near as durable. Within the first week of owning it I've already have a significant scratch on the screen. I went nearly 2 years before I ever got a scratch on my series 8. To me I don't recommend upgrading based on my experience thus far.
+Sentiment: negative
+
+Review: Review 7:
+I love my new watch! It’s a beautiful rose gold. I went on Amazon and got a blingy band too
+Sentiment: positive
+
+Review: Review 8:
+I am so pleased with my watch. And such a great deal on the trade-in.. it does pay to be one of the Best Buy plus customers!!!
+Sentiment: positive
+
+Review: Review 9:
+Sleeky smooth Apple Watch, It’s such a smooth finish and not heavy on my wrist. Love my Sleeky A watch
+Sentiment: positive
+
+Review: Review 10:
+This is the best apple watch. Very light and convenient
+Sentiment: positive
